@@ -1,0 +1,34 @@
+/*Background colour*/
+body {
+    background: #2c2c30;
+}
+
+/*The text in the middle of the screen*/
+h1 {
+    text-align: center;
+    color: white;
+}
+
+/*Text colour*/
+h2 {
+    text-align: center;
+    color: white;
+}
+
+/*The image of my profile*/
+.catgirl {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.youtube {
+    display: block;
+    width: 150px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+}
