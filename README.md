@@ -1,3 +1,0 @@
-# CatPerson.xyz
-
-My website
